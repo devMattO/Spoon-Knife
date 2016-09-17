@@ -1,5 +1,5 @@
 # RAY
-# OCTOCAT G DUBS HEI HEI WUT STO PWTCHING ME
+# OCTOCAT is cool
 
 
-## JON ADDS THIS, git is smart
+## JON Merge conflict
